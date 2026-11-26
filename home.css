@@ -1,0 +1,22 @@
+button{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.mother{
+    background-image: url(pexels-diva-33065353.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    word-spacing: 1px;
+    letter-spacing: 0.1px;
+}
+h1{
+    color: white;
+}
+.right{
+   
+}
